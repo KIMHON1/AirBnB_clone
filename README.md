@@ -7,4 +7,5 @@ This is the first step towards building my first full web application: the AirBn
             If not found, it returns the default value provided to the function.
             Python provides the strptime() method, in its datetime class, to convert
             a string representation of the​ date/time into a date object.
-        
+**kwargs allows you to pass keyworded variable length of arguments to a function. You should use **kwargs if you want to handle named arguments in a function.
+
